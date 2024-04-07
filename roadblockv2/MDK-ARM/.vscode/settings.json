@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "*.ino": "plaintext",
+        "usart.h": "c",
+        "main.h": "c",
+        "wt61c.h": "c",
+        "string.h": "c",
+        "motor.h": "c",
+        "esp01.h": "c",
+        "gpio.h": "c",
+        "uwb.h": "c",
+        "math.h": "c",
+        "corecrt_math_defines.h": "c",
+        "limits": "c",
+        "memory": "c",
+        "atomic": "c",
+        "bit": "c",
+        "compare": "c",
+        "cstddef": "c",
+        "type_traits": "c",
+        "xmemory": "c",
+        "xstring": "c",
+        "xutility": "c",
+        "oled.h": "c",
+        "tim.h": "c"
+    }
+}
